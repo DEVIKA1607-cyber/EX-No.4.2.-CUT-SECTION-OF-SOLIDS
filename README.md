@@ -1,5 +1,6 @@
 # EX No.4.2. CUT SECTION OF SOLIDS
-## DATE:
+## NAME : DEVIKA D
+## REG : 212224100010
 
 ## AIM: 
 To create the solid model from given drawing and section the solid model
@@ -42,6 +43,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+<img width="1491" height="1055" alt="image" src="https://github.com/user-attachments/assets/c401ddfa-0cf5-411c-9ec1-75db3a0778a6" />
 
 
 ## RESULT:
